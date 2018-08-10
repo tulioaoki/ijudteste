@@ -1,0 +1,1 @@
+{"status_code":200,"message":"Users retornados com sucesso.","code":"get.users.success","data":[{"id":1,"name":"","email":null,"username":"partec","phone":null,"role":""},{"id":2,"name":"Nome Sobrenome 0","email":"email0@email.com","username":"username0","phone":null,"role":"1"}],"success":true}
